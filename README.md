@@ -1,2 +1,3 @@
 # Jogos
-jogos utilizando Java e HTML
+jogos simples
+
